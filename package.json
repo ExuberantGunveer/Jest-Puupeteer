@@ -1,0 +1,19 @@
+{
+  "name": "jest_puppeteer_3",
+  "version": "1.0.0",
+  "description": "Jest Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Gunveer Singh",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.17.12",
+    "@babel/preset-env": "^7.17.12",
+    "babel-jest": "^28.1.0",
+    "jest": "^28.1.0",
+    "jest-puppeteer": "^6.1.0",
+    "puppeteer": "^14.1.0"
+  }
+}
